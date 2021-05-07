@@ -1,2 +1,3 @@
 # AutomationLights
-Voice controlling by google home my bedroom lights using a MCU.
+Using google assistant to control my bedroom lights;
+I'm using a NodeMCU connected to internet, a relay module and google assistant to trigger the job.
