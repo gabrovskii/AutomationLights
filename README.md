@@ -1,6 +1,6 @@
 # SmartFan
 Using google assistant and blynk app to control my Fan;
-sing a NodeMCU connected to internet, a relay module and google assistant to trigger the job.
+NodeMCU connected to internet, a relay module and google assistant to trigger the job.
 
 
 I basically connected my nodeMCU to the blynk app, using the key generate by the app and than, I'm able to controle the buttons created on app:
